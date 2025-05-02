@@ -200,4 +200,3 @@ network_pkl = latest_snapshot  # already loaded above
     --target="{input_image_path}" \
     --network="{latest_snapshot}" \
     --save-video=0
-
